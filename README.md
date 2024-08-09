@@ -20,8 +20,4 @@ The project successfully demonstrates the effectiveness of PCA in predicting sto
 ## Conclusion
 PCA proves to be a powerful tool in stock price prediction, offering a streamlined approach to handle high-dimensional data. This project lays the groundwork for further exploration in financial forecasting using PCA.
 
-## Contributors
-- Ujjwal Raj (ME22B1072)
-- Aman Gupta (ME22B1071)
-- Prashant Tyagi (ME22B1069)
-- Vinay Kumar (ME22B1070)
+
