@@ -25,6 +25,3 @@ PCA proves to be a powerful tool in stock price prediction, offering a streamlin
 - Aman Gupta (ME22B1071)
 - Prashant Tyagi (ME22B1069)
 - Vinay Kumar (ME22B1070)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
